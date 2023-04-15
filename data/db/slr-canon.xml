@@ -1659,7 +1659,7 @@
         <cropfactor>1</cropfactor>
         <calibration>
             <!-- Taken with Canon 5D Mark III -->
-            <distortion model="ptlens" focal="20" a="0.02466" b="-0.05795" c="0.0166"/>
+            <distortion model="ptlens" focal="20" a="0.00522229" b="-0.0207656" c="0.0112595"/>
             <tca model="poly3" focal="20" br="-0.0000976" vr="1.0012100" bb="0.0002552" vb="0.9997696"/>
             <vignetting model="pa" focal="20" aperture="2.8" distance="0.25" k1="-2.3970" k2="2.8162" k3="-1.2656"/>
             <vignetting model="pa" focal="20" aperture="2.8" distance="0.5" k1="-2.5125" k2="3.0085" k3="-1.3604"/>
